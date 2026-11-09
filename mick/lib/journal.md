@@ -1,0 +1,1 @@
+added a dark mode switch and used SharedPreference to save the setting.
